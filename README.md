@@ -1,9 +1,5 @@
 # Thermostat-Temperature-Control-System
 A microcontroller-based thermostat system written in C, featuring temperature sensing, state machine control, and automatic heating/cooling management.
-
-# Thermostat Temperature Control System
-
-This project implements a **digital thermostat system** using C for microcontrollers.  
 It reads temperature values from a sensor, compares them with a user-defined threshold, and controls heating/cooling devices accordingly.  
 
 The project includes the full C source code, compiled firmware files, and documentation with design details such as the **state machine diagram** and project report.
